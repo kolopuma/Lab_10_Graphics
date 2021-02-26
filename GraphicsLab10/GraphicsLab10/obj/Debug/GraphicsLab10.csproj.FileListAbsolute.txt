@@ -1,0 +1,9 @@
+C:\Users\Максим\source\repos\GraphicsLab10\GraphicsLab10\obj\Debug\GraphicsLab10.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\GraphicsLab10\GraphicsLab10\obj\Debug\GraphicsLab10.Form1.resources
+C:\Users\Максим\source\repos\GraphicsLab10\GraphicsLab10\obj\Debug\GraphicsLab10.Properties.Resources.resources
+C:\Users\Максим\source\repos\GraphicsLab10\GraphicsLab10\obj\Debug\GraphicsLab10.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\GraphicsLab10\GraphicsLab10\bin\Debug\GraphicsLab10.exe.config
+C:\Users\Максим\source\repos\GraphicsLab10\GraphicsLab10\bin\Debug\GraphicsLab10.exe
+C:\Users\Максим\source\repos\GraphicsLab10\GraphicsLab10\bin\Debug\GraphicsLab10.pdb
+C:\Users\Максим\source\repos\GraphicsLab10\GraphicsLab10\obj\Debug\GraphicsLab10.exe
+C:\Users\Максим\source\repos\GraphicsLab10\GraphicsLab10\obj\Debug\GraphicsLab10.pdb
